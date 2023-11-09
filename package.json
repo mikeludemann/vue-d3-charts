@@ -31,7 +31,7 @@
     "@vue/cli-service": "^4.2.0",
     "@vue/test-utils": "1.0.0-beta.31",
     "chai": "^4.1.2",
-    "chromedriver": "80",
+    "chromedriver": "119",
     "d3": "^5.15.0",
     "d3-cloud": "^1.2.5",
     "d3-geo": "^1.11.9",
